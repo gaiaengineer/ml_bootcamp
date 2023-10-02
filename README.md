@@ -30,6 +30,18 @@ A Python coding exercise from the <a href="https://www.coursera.org/learn/linear
 - <a href="https://numpy.org/">numpy</a>
 - <a href="https://jupyter.org/">Jupyter Notebook</a>
 
+## 3 - Reflecting Bear
+
+### Project description
+A Python coding exercise from the <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a> course. In it, the learner is supposed write a Python function that will produce a transformation matrix for reflecting vectors in an arbitrarily angled mirror. Building on the exercise with Gram-Schmidt procedure, where the learner wrote a code to construct an orthonormal basis that spans a set of input vectors, here the learner will take a matrix which takes simple form in that basis, and transform it into our starting basis.
+
+<b>Relevant mathematics topics:</b> <a href="https://en.wikipedia.org/wiki/Linear_algebra#:~:text=Linear%20algebra%20is%20the%20branch,this%20case%2C%20a%20unique%20point">linear algebra</a>, <a href="https://en.wikipedia.org/wiki/Matrix_(mathematics)">matrices</a>, <a href="https://en.wikipedia.org/wiki/Rotations_and_reflections_in_two_dimensions">reflexion and rotation</a> 
+
+### Technologies
+- <a href="https://www.python.org/">Python</a>
+- <a href="https://numpy.org/">numpy</a>
+- <a href="https://jupyter.org/">Jupyter Notebook</a>
+
 ## MIT License
 
 Copyright (c) 2023 Olga Alexeeva

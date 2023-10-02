@@ -33,9 +33,21 @@ A Python coding exercise from the <a href="https://www.coursera.org/learn/linear
 ## 3 - Reflecting Bear
 
 ### Project description
-A Python coding exercise from the <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a> course. In it, the learner is supposed write a Python function that will produce a transformation matrix for reflecting vectors in an arbitrarily angled mirror. Building on the exercise with Gram-Schmidt procedure, where the learner wrote a code to construct an orthonormal basis that spans a set of input vectors, here the learner will take a matrix which takes simple form in that basis, and transform it into our starting basis.
+A Python coding exercise from the <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a> course. In it, the learner is supposed to write a Python function that will produce a transformation matrix for reflecting vectors in an arbitrarily angled mirror. Building on the exercise with Gram-Schmidt procedure, where the learner wrote a code to construct an orthonormal basis that spans a set of input vectors, here the learner will take a matrix which takes simple form in that basis, and transform it into our starting basis.
 
 <b>Relevant mathematics topics:</b> <a href="https://en.wikipedia.org/wiki/Linear_algebra#:~:text=Linear%20algebra%20is%20the%20branch,this%20case%2C%20a%20unique%20point">linear algebra</a>, <a href="https://en.wikipedia.org/wiki/Matrix_(mathematics)">matrices</a>, <a href="https://en.wikipedia.org/wiki/Rotations_and_reflections_in_two_dimensions">reflexion and rotation</a> 
+
+### Technologies
+- <a href="https://www.python.org/">Python</a>
+- <a href="https://numpy.org/">numpy</a>
+- <a href="https://jupyter.org/">Jupyter Notebook</a>
+
+## 3 - Page Rank
+
+### Project description
+A Python coding exercise from the <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a> course. In it, the learner is supposed to build on their knowledge of eigenvectors and  eigenvalues by exploring the PageRank algorithm. The notebook is in two parts, the first is a worksheet to get the learner up to  speed with how the algorithm works - here we will look at a  micro-internet with fewer than 10 websites and see what it does and what  can go wrong. The second is an assessment which will test the learner's application of  eigentheory to this problem by writing code and calculating the page  rank of a large network representing a sub-section of the internet.
+
+<b>Relevant mathematics topics:</b> <a href="https://en.wikipedia.org/wiki/Linear_algebra#:~:text=Linear%20algebra%20is%20the%20branch,this%20case%2C%20a%20unique%20point">linear algebra</a>, <a href="https://en.wikipedia.org/wiki/Matrix_(mathematics)">matrices</a>, <a href="https://en.wikipedia.org/wiki/Characteristic_polynomial">characteristic polynomial</a>, <a href="https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors">eigenvalues and eigenvectors</a>
 
 ### Technologies
 - <a href="https://www.python.org/">Python</a>

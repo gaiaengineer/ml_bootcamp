@@ -18,7 +18,19 @@ A Python coding exercise from the <a href="https://www.coursera.org/learn/linear
 - <a href="https://numpy.org/">numpy</a>
 - <a href="https://jupyter.org/">Jupyter Notebook</a>
 
-### MIT License
+## 2 - Gram-Schmidt process
+
+### Project description
+A Python coding exercise from the <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a> course. In it, the learner is supposed to create a function to perform the Gram-Schmidt procedure, which takes a list of vectors and forms an orthonormal basis from this set. As a corollary, the procedure allows us to determine the dimension of the space spanned by the basis vectors, which is equal to or less than the space which the vectors sit. The learner should start by completing a function for 4 basis vectors, before generalising to when an arbitrary number of vectors are given.
+
+<b>Relevant mathematics topics:</b> <a href="https://en.wikipedia.org/wiki/Linear_algebra#:~:text=Linear%20algebra%20is%20the%20branch,this%20case%2C%20a%20unique%20point">linear algebra</a>, <a href="https://en.wikipedia.org/wiki/Matrix_(mathematics)">matrices</a>, <a href="https://en.wikipedia.org/wiki/Orthonormal_basis">orthonormal basis</a>, <a href="https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process">Gram-Schmidt process</a>
+
+### Technologies
+- <a href="https://www.python.org/">Python</a>
+- <a href="https://numpy.org/">numpy</a>
+- <a href="https://jupyter.org/">Jupyter Notebook</a>
+
+## MIT License
 
 Copyright (c) 2023 Olga Alexeeva
 

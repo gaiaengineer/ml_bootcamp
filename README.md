@@ -42,7 +42,7 @@ A Python coding exercise from the <a href="https://www.coursera.org/learn/linear
 - <a href="https://numpy.org/">numpy</a>
 - <a href="https://jupyter.org/">Jupyter Notebook</a>
 
-## 3 - Page Rank
+## 4 - Page Rank
 
 ### Project description
 A Python coding exercise from the <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a> course. In it, the learner is supposed to build on their knowledge of eigenvectors and  eigenvalues by exploring the PageRank algorithm. The notebook is in two parts, the first is a worksheet to get the learner up to  speed with how the algorithm works - here we will look at a  micro-internet with fewer than 10 websites and see what it does and what  can go wrong. The second is an assessment which will test the learner's application of  eigentheory to this problem by writing code and calculating the page  rank of a large network representing a sub-section of the internet.

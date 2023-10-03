@@ -6,6 +6,14 @@ Below are a selection of personal coding projects undertaken for the purpose of 
 
 👋🏻 Feel free to consult <a href="https://www.freecodecamp.org/olgaalexee">my freeCodeCamp profile</a> and <a href="https://www.linkedin.com/in/bookwormolga">LinkedIn page</a> to see my credentials and connect. 
 
+## 0 - Table of Contents
+
+- [1 - Identifying Special Matrices](https://github.com/olgaalexee/ml_bootcamp#1---identifying-special-matrices)
+- [2 - Gram-Schmidt process](https://github.com/olgaalexee/ml_bootcamp#2---gram-schmidt-process)
+- [3 - Reflecting Bear](https://github.com/olgaalexee/ml_bootcamp#3---reflecting-bear)
+- [4 - Page Rank](https://github.com/olgaalexee/ml_bootcamp#4---page-rank)
+- [License](https://github.com/olgaalexee/ml_bootcamp#mit-license)
+
 ## 1 - Identifying Special Matrices
 
 ### Project description
